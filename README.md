@@ -1,4 +1,4 @@
-# WealthVerse - Financial Literacy Web Application
+![Screenshot 2024-12-31 124534](https://github.com/user-attachments/assets/e7f7c123-5ea3-48a6-948a-c06920eba090)# WealthVerse - Financial Literacy Web Application
 
 WealthVerse is a platform designed to promote financial literacy for all. The platform provides educational content, gamified quizzes, and simulations to help users understand and master essential financial concepts.
 
@@ -62,6 +62,20 @@ Ensure you have the following installed:
     npm run dev
     ```
 
-## Video
-[Screen Recording 2024-12-31 123650.zip](https://github.com/user-attachments/files/18279903/Screen.Recording.2024-12-31.123650.zip)
+## ScreenShots
+
+![Screenshot 2024-12-31 124534](https://github.com/user-attachments/assets/43738431-fc2c-4fb7-8593-541ecbaeeec6)
+
+![Screenshot 2024-12-31 124547](https://github.com/user-attachments/assets/ed9ccca5-4381-4e9b-98bc-1d56f77e2105)
+
+![Screenshot 2024-12-31 124555](https://github.com/user-attachments/assets/c3acb30a-2c49-4e54-9098-765cfec71acc)
+
+![Screenshot 2024-12-31 124600](https://github.com/user-attachments/assets/eb918900-1a77-4f2f-813c-c9cfdc46d7fe)
+
+![Screenshot 2024-12-31 124605](https://github.com/user-attachments/assets/f1f1cbc4-5002-4730-bcb7-d367858103db)
+
+
+
+
+
 

@@ -1,4 +1,6 @@
-![Screenshot 2024-12-31 124534](https://github.com/user-attachments/assets/e7f7c123-5ea3-48a6-948a-c06920eba090)# WealthVerse - Financial Literacy Web Application
+![DALL·E 2024-12-30 18 59 12 - A visually stunning thumbnail for a financial education project called 'Wealth Verse ' The design features a futuristic galaxy-like background with ba](https://github.com/user-attachments/assets/b3372888-4ddf-485f-abe9-b20b6732d474)
+
+# WealthVerse - Financial Literacy Web Application
 
 WealthVerse is a platform designed to promote financial literacy for all. The platform provides educational content, gamified quizzes, and simulations to help users understand and master essential financial concepts.
 
